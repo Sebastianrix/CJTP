@@ -99,19 +99,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Gurpreet Kaur\\.nuget\\packages\\": {}
+    "C:\\Users\\Sebastian Rix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gurpreet Kaur\\OneDrive\\Documents\\GitHub\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Gurpreet Kaur\\OneDrive\\Documents\\GitHub\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\Gurpreet Kaur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gurpreet Kaur\\OneDrive\\Documents\\GitHub\\ConsoleApp1\\obj\\",
+      "projectUniqueName": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\CJTP\\Client.csproj",
+      "projectName": "Client",
+      "projectPath": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\CJTP\\Client.csproj",
+      "packagesPath": "C:\\Users\\Sebastian Rix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\CJTP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gurpreet Kaur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sebastian Rix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -164,7 +164,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
