@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\CJTP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B21E1838-15EB-4DAF-ABA3-568F94C700C2}|Client.csproj|c:\\users\\sebastian rix\\documents\\github\\cjtp\\clientprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B21E1838-15EB-4DAF-ABA3-568F94C700C2}|Client.csproj|solutionrelative:clientprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{946805AF-EF2E-4720-88CF-E10D2E1B38B8}|..\\Server\\Server.csproj|c:\\users\\sebastian rix\\documents\\github\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{946805AF-EF2E-4720-88CF-E10D2E1B38B8}|..\\Server\\Server.csproj|c:\\users\\sebastian rix\\documents\\github\\server\\serverprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -17,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,28 +24,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\CJTP\\ClientProgram.cs",
-              "RelativeDocumentMoniker": "ClientProgram.cs",
-              "ToolTip": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\CJTP\\ClientProgram.cs",
-              "RelativeToolTip": "ClientProgram.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T10:59:28.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ServerProgram.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\Server\\ServerProgram.cs",
               "RelativeDocumentMoniker": "..\\Server\\ServerProgram.cs",
-              "ToolTip": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\Server\\ServerProgram.cs",
-              "RelativeToolTip": "..\\Server\\ServerProgram.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\Server\\ServerProgram.cs*",
+              "RelativeToolTip": "..\\Server\\ServerProgram.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T09:02:03.989Z",
+              "WhenOpened": "2024-10-10T11:52:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Server.cs",
+              "ToolTip": "C:\\Users\\Sebastian Rix\\Documents\\GitHub\\Server\\Server.cs*",
+              "RelativeToolTip": "..\\Server\\Server.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:51:00.133Z",
               "EditorCaption": ""
             }
           ]
